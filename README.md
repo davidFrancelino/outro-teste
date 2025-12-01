@@ -8,7 +8,7 @@ Repositório para armazenar anotações das aulas do Santander Coder 2025 \[Dano
 
 
 
-\## Categoria de Nutrição Especializada (SN)
+\## Categoria de Nutrição Especializadas (SN)
 
 \- Aptamil
 
