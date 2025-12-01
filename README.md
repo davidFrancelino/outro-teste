@@ -19,6 +19,16 @@ Repositório para armazenar anotações das aulas do Santander Coder 2025 \[Dano
 | sim | não |
 
 
+\## Categoria de EDP
+
+\- Aptamil
+
+| AA | BB |
+
+| --- | --- |
+
+| sim | não |
+
 
 ```
 
